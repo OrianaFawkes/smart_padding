@@ -1,0 +1,24 @@
+name: smart_padding
+description: A Flutter padding widget with cascading all, horizontal, vertical, and individual sides.
+version: 1.0.0
+
+repository: https://github.com/OrianaFawkes/smart_padding
+issue_tracker: https://github.com/OrianaFawkes/smart_padding/issues
+
+topics:
+  - flutter
+  - padding
+  - widgets
+  - layout
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
