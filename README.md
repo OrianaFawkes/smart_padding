@@ -1,5 +1,7 @@
 # SmartPadding
 
+[![CI](https://github.com/OrianaFawkes/smart_padding/actions/workflows/ci.yml/badge.svg)](https://github.com/OrianaFawkes/smart_padding/actions/workflows/ci.yml)
+
 A Flutter padding widget with cascading values for `all`, `horizontal`,
 `vertical`, and individual sides.
 
